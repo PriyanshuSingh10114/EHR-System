@@ -5,12 +5,19 @@ both patients and doctors through IPFS integration. This decentralized approach 
 Technology Used :
 
 Blockchain Technology: Ethereum
+
 Blockchain Development Tools: Metamask, Ganache
+
 Decentralized File Storage: IPFS (InterPlanetary File System)
+
 Smart Contract Development: Solidity
+
 Frontend Development: ReactJS
+
 Testing Frameworks: Truffle (for testing Solidity contracts)
+
 Version Control: Git
+
 Development Environment: Node.js
 
 
